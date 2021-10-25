@@ -1,0 +1,12 @@
+{
+  "address": "0x5cB9727Afe33DAf794C0e1e865eB4Fc9c43e6340",
+  "index": 53,
+  "amount": "0x0165b2d9",
+  "proof": [
+    "0xf6413bee2db95a0ad3f02b336c014ad4259604d297615d761b17777202b899ae",
+    "0x5a61d9aea7b0ec0893aad1b4e200b4580da2bf7cdc02a13b7dbd06b453c4ac66",
+    "0x2bddd348c14f3f27a6149ced028aafe19dc837866f6e7fc34f84434e709dae2c",
+    "0xccd95df7c58ac34fd7a79e15e9862b3953dc0bde8fc36223c8573d131162e9e6",
+    "0xc6b38dd96650b6b35be8ca0b767fbc4b45c167557b055c7a5c87aaea3edacd2b"
+  ]
+}
